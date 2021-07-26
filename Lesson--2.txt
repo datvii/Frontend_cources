@@ -1,0 +1,19 @@
+https://media.cheatography.com/storage/thumb/davechild_regular-expressions.750.jpg?last=1584011681
+https://rtfm.co.ua/wp-content/uploads/2016/02/Git-Cheat-Sheet.png
+https://webref.ru/html/input/pattern
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+https://htmlweb.ru/html/form/form_input_pattern.php
+https://webdesign.tutsplus.com/ru/tutorials/html5-form-validation-with-the-pattern-attribute--cms-25145
+
+1. Введение в css, как он работает
+https://developer.mozilla.org/ru/docs/Learn/CSS/First_steps/How_CSS_works
+2. reset.css, подключение файлов (плюсы и минусы)
+3. Взвешивание селекторов
+4. Именование   
+https://github.com/yoksel/common-words
+5. Структурирование и правильное написание стилей
+https://webref.ru/css
+6. Блочная модель
+7. Fonts
+https://webref.ru/css/font-face
+https://fonts.google.com/?preview.text_type=custom
